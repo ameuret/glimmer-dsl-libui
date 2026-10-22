@@ -67,11 +67,11 @@ window('hello world', 300, 200) {
 }.show
 ```
 
-Basic Table Progress Bar
-
 Mac | Windows | Linux
 ----|---------|------
 ![glimmer-dsl-libui-mac-basic-button.png](/images/glimmer-dsl-libui-mac-basic-button.png) ![glimmer-dsl-libui-mac-basic-button-msg-box.png](/images/glimmer-dsl-libui-mac-basic-button-msg-box.png) | ![glimmer-dsl-libui-windows-basic-button.png](/images/glimmer-dsl-libui-windows-basic-button.png) ![glimmer-dsl-libui-windows-basic-button-msg-box.png](/images/glimmer-dsl-libui-windows-basic-button-msg-box.png) | ![glimmer-dsl-libui-linux-basic-button.png](/images/glimmer-dsl-libui-linux-basic-button.png) ![glimmer-dsl-libui-linux-basic-button-msg-box.png](/images/glimmer-dsl-libui-linux-basic-button-msg-box.png)
+
+Basic Table Progress Bar
 
 ```ruby
 require 'glimmer-dsl-libui'
